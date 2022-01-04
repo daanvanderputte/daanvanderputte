@@ -1,6 +1,5 @@
 ### Hey, I’m Daan
 #### Web Development Student at DCI
-#### Always open to new opportunities 
 #### Reach me at: daanvanderputte@pm.me
 
 <!--
