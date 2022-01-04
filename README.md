@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there
+Web Development Student at DCI
+Always open to new opportunities 
+Reach me at: daanvanderputte@pm.me
 
 <!--
 **daanvanderputte/daanvanderputte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
