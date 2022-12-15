@@ -1,5 +1,5 @@
 #### Hey, I’m Daan
-#### Web Development Student at DCI
+#### Full Stack Web Developer
 #### Reach me at: daanvanderputte@pm.me
 
 <!--
